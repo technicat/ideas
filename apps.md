@@ -8,4 +8,5 @@
 - Another Angry Birds (I don't know what's different, but I assume it wouldn't be called Angry Birds).
 - Chess with 3D animations (I'm thinking Battle Chess, I'm sure there are others, but the last one I played was Battle Chess).
 - Chinese chess (I probably don't remember completely how to play, but if you like chess, you'll like Chinese chess. Not to be confused with Chinese checkers).
+- An RPG for language instruction - go out and buy/barter weapons, assemble a team, etc. in a foreign land with a foreign language (just like I had to figure out how to order food in the company cafeteria when I worked in Hong Kong).
 
