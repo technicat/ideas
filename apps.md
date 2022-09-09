@@ -9,5 +9,6 @@
 - A shopping list which you can easily add to via camera (using AI classification, of course...), bar code, or I suppose you could just type something.
 - Pill reminder.
 - Lie detector (could be a game, too).
+- Business cards on your phone, like a rolodex (remember those?). I originally envisioned being able to beam your business card from yoir PalmPilot (remember those?).
 
 
