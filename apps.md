@@ -10,5 +10,7 @@
 - Pill reminder.
 - Lie detector (could be a game, too).
 - Business cards on your phone, like a rolodex (remember those?). I originally envisioned being able to beam your business card from yoir PalmPilot (remember those?).
+- A sushi app. like my dim sum app, but with sushi and Japanese instead of dim sum and Chinese.
+- A ramen app, like my dim sum app...you get the idea.
 
 
