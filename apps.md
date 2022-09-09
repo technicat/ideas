@@ -18,5 +18,6 @@
 - A slide rule app (just so I can learn how to use a slide rule).
 - A multi-instrument tuner (I have a ukulele and a digital piano which shouldn't need to be turned).
 - An app that says hello in all languages.
+- An app that shows all the elaborate terminology for Chinese relatives (e.g. father's younger brother) 
 
 
