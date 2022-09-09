@@ -12,4 +12,5 @@
 - An RPG for language instruction - go out and buy/barter weapons, assemble a team, etc. in a foreign land with a foreign language (just like I had to figure out how to order food in the company cafeteria when I worked in Hong Kong).
 - A game where you try to pass interview code quizzes, so you can get a job where you give interview code quizzes. Maybe throw in some office politics and useless stock options to make it interesting.
 - A cat cafe game. I know there's already one or more, but there could be different angles, like how to approach a cat without getting bit or scratched, or perhaps a cat's viewpoint.
+- A game based on Journey to the West. I'm there are a ton of them, but not, as far as I know, in the West.
 
