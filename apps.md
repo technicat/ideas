@@ -12,5 +12,7 @@
 - Business cards on your phone, like a rolodex (remember those?). I originally envisioned being able to beam your business card from yoir PalmPilot (remember those?).
 - A sushi app. like my dim sum app, but with sushi and Japanese instead of dim sum and Chinese.
 - A ramen app, like my dim sum app...you get the idea.
+- Panoramic interior views for virtual home walkthroughs (I thought of this back in the late 90s, so the ship has sailed on this one, but still, there's always room for better rendering...).
+- A home finance app. I just want to see at a glance how much to price my home so I don't regret buying it in the first place.
 
 
