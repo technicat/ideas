@@ -4,7 +4,7 @@
 - Another port of HyperBowl (I do have the license for that).
 - Online multiplayer HyperBowl (an artist told me he could help and sent me a screenshot of a menu screen with a Multiplayer button added).
 - HyperBowl racing.
-- Another Angry Birds (I don't know what's different, but I assume it wouldn't be called Angry Birds).
+- Another Angry Birds ("I can make Angry Birds for five thousand dollars!" the guy told me at E3).
 - Chess with 3D animations (I'm thinking Battle Chess, I'm sure there are others, but the last one I played was Battle Chess).
 - A chess game that will tell you where you are in recognizable openings or endings.
 - Chinese chess (I probably don't remember completely how to play, but if you like chess, you'll like Chinese chess. Not to be confused with Chinese checkers).
