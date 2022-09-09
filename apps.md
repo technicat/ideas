@@ -15,5 +15,6 @@
 - Panoramic interior views for virtual home walkthroughs (I thought of this back in the late 90s, so the ship has sailed on this one, but still, there's always room for better rendering...).
 - A home finance app. I just want to see at a glance how much to price my home so I don't regret buying it in the first place, say, ranging from "I should have put that mone in stock" to "I'm a financially diversified genius!".
 - Bathroom finder. With ratings.
+- A slide rule app (just so I can learn how to use a slide rule).s
 
 
