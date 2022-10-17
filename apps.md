@@ -18,5 +18,7 @@
 - A slide rule app (just so I can learn how to use a slide rule).
 - A multi-instrument tuner (I have a ukulele and a digital piano which shouldn't need to be turned).
 - issue commands from a piano keyboard, like voiceover but with music
+- virtual assistant that responds like in the military ("turning volume up, ay!")
+- virtual assistant that responds like a sullen teenager stuck working a summer job while their friends are having fun
 
 
