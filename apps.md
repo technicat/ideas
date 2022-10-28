@@ -20,5 +20,6 @@
 - issue commands from a piano keyboard, like voiceover but with music
 - virtual assistant that responds like in the military ("turning volume up, ay!")
 - virtual assistant that responds like a sullen teenager stuck working a summer job while their friends are having fun
+- step counter that plays back your history of footsteps using a footstep sfx
 
 
