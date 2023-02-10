@@ -24,5 +24,6 @@
 - a rideshare app for women who have to travel out of state for an abortion
 - a social media app that maximizes something besides "engagement"
 - a fortune cookie app
+- a boycott app that reminds you why shouldn't buy that book, walk into that restaurant, shop on this site, etc.
 
 
